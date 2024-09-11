@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmi11&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmi11&" alt="nethmi11" /></p>
 
 
 
