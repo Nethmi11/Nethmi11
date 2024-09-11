@@ -1,4 +1,4 @@
-# HELLO THERE, I'm Nethmi!
+# Hello there, I'm Nethmi!
 ## 💫 About Me:
 🔭 Curious software engineering intern with a knack for turning ideas into functional, well-crafted code. I’m always exploring new technologies and refining my skills to build smarter, more efficient solutions. Problem-solving keeps me driven, and I enjoy making every line of code count.
 
